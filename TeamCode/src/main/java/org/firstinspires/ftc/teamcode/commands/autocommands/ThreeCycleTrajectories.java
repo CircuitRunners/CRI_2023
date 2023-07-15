@@ -43,6 +43,7 @@ public class ThreeCycleTrajectories {
             new Pose2d(-33.9, 0.1, toRadians(-119.2));
 
     public static final Pose2d rightStackPosition =
+            new Pose2d(64.5, -5.325, toRadians(0));
 
     public static final Pose2d leftStackPosition =
             new Pose2d(-62.96, -5.05, toRadians(180)); //red left field 1: -64.5, blue left field 2 : -64.6
